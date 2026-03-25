@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoulaAdel
-- 👀 Interested in National Geographic,, Kidding! interested in Sofware Engineering, Developing and IT Adminstration
+- 👀 Interested in National Geographic,, Kidding! interested in Sofware Engineering, DevOps and IT Adminstration
 - 🌱 continously learning Ethical Hacking, Python, C# and Networking
 - 💞️ Looking to collaborate on Cross Platform Applications ,C# , Python projects or envolve forinsecs 
 
