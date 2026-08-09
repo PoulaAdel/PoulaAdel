@@ -7,5 +7,5 @@
 
 || Mail    : poula.a.fouad@gmail.com
 || Skype   : Poula_a.fouad
-|| WhatsApp: (+20) 120-0330-744
-|| Phone   : (+20) 120-0330-744
+|| WhatsApp: (+2) 0120-0330-744
+|| Phone   : (+2) 0120-0330-744
