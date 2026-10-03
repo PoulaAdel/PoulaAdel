@@ -322,7 +322,7 @@ Permission denied
   <img src="https://img.shields.io/badge/EMAIL-poula.a.fouad%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="www.linkedin.com/in/poula-adel-17593768">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
