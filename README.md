@@ -182,8 +182,7 @@ DNS suspicion                 ██████████  100%
 ```text
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
-│   "I automate things so I can spend more time                 │
-│    automating !"                        │
+│   "I automate things so I can spend more time automating !"   │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
