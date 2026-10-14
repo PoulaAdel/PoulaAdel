@@ -2,14 +2,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  root@PoulaAdel:~$ ./start_profile.sh                      ║
-║                                                            ║
-║  [✓] Identity loaded                                       ║
-║  [✓] Coffee dependency detected                            ║
-║  [✓] Linux permissions questionable                        ║
-║  [✓] Bugs successfully blamed on DNS                       ║
-║                                                            ║
-║  ACCESS GRANTED                                            ║
+║  root@PoulaAdel:~$ ./start_profile.sh                        ║
+║                                                              ║
+║  [✓] Identity loaded                                         ║
+║  [✓] Coffee dependency detected                              ║
+║  [✓] Linux permissions questionable                          ║
+║  [✓] Bugs successfully blamed on DNS                         ║
+║                                                              ║
+║  ACCESS GRANTED                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -42,57 +42,6 @@ Poula Adel
 [+] Networking enjoyer
 [+] Digital Forensics explorer
 [+] Professional "works on my machine" investigator
-```
-
-## 🧠 `~/about_me`
-
-```python
-class PoulaAdel:
-    def __init__(self):
-        self.name = "Poula Adel"
-
-        self.roles = [
-            "Software Engineer",
-            "IT Administrator",
-            "Cybersecurity Enthusiast",
-            "Networking Human",
-            "Digital Forensics Explorer"
-        ]
-
-        self.languages = ["Python", "C#"]
-
-        self.environment = [
-            "Linux",
-            "Windows"
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub",
-            "Docker",
-            "Bash"
-        ]
-
-        self.currently_learning = [
-            "Ethical Hacking",
-            "Digital Forensics",
-            "Networking",
-            "Automation",
-            "How to exit Vim on the first try"
-        ]
-
-        self.status = (
-            "Probably debugging something "
-            "I definitely didn't break"
-        )
-
-    def coffee_to_code(self):
-        while True:
-            learn()
-            build()
-            break_things()
-            fix_things()
-            automate_everything()
 ```
 
 ---
@@ -178,33 +127,6 @@ requirements:
 
 ---
 
-# 🐍 `./consume_contributions.sh`
-
-<div align="center">
-
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/PoulaAdel/PoulaAdel/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/PoulaAdel/PoulaAdel/output/github-snake.svg"
-    />
-    <img
-      alt="github contribution snake"
-      src="https://raw.githubusercontent.com/PoulaAdel/PoulaAdel/output/github-snake.svg"
-    />
-  </picture>
-</p>
-
-### `WARNING: Snake is consuming production commits.`
-
-</div>
-
----
-
 ## 📊 `github --stats`
 
 <div align="center">
@@ -216,16 +138,6 @@ requirements:
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=PoulaAdel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF0055&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-## 📈 `git log --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoulaAdel&bg_color=0D1117&color=00F7FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -245,69 +157,6 @@ Production confidence         ████████░░   80%
 Understanding CSS             ██░░░░░░░░   CLASSIFIED
 DNS suspicion                 ██████████  100%
 ─────────────────────────────────────────────
-```
-
----
-
-## 🧩 `node developer.js`
-
-```javascript
-const poula = {
-    sleepSchedule: undefined,
-    tabsOrSpaces: "Whatever doesn't break CI",
-    favoriteError: "Permission denied",
-    naturalHabitat: "/var/log/",
-    superpower:
-        "Finding the bug immediately after asking someone for help",
-    weakness:
-        "One tiny quick project",
-    famousLastWords:
-        "This should be a simple change."
-};
-```
-
----
-
-## 🚨 Incident Report
-
-```text
-INCIDENT #404
-
-Issue:
-    Bug could not be reproduced.
-
-Environment:
-    My machine.
-
-Root Cause:
-    Obviously production.
-
-Resolution:
-    Added another console.log().
-
-Status:
-    ✅ RESOLVED*
-
-* probably
-```
-
----
-
-## 🧯 Emergency DevOps Procedure
-
-```bash
-$ kubectl get pods
-NAME                 STATUS
-my-application       CrashLoopBackOff
-
-$ kubectl describe pod my-application
-Error: someone touched production
-
-$ git blame
-PoulaAdel
-
-$ sudo rm -rf responsibility
-Permission denied
 ```
 
 ---
