@@ -183,11 +183,14 @@ DNS suspicion                 ██████████  100%
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
 │   "I automate things so I can spend more time                 │
-│    automating the things I automated."                        │
+│    automating !"                        │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
+</div>
 
+<div align="center">
+  
 ### `sudo make me a senior engineer`
 
 <sub>
