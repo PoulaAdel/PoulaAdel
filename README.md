@@ -21,8 +21,6 @@
 
 ### `Software Engineer` • `IT Administrator` • `Cybersecurity` • `Networking` • `Digital Forensics`
 
-<img src="https://komarev.com/ghpvc/?username=PoulaAdel&label=PROFILE+INTRUSIONS&color=00f7ff&style=for-the-badge" alt="Profile views"/>
-
 </div>
 
 ---
@@ -184,8 +182,8 @@ DNS suspicion                 ██████████  100%
 ```text
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
-│   "I automate things so I can spend more time               │
-│    automating the things I automated."                       │
+│   "I automate things so I can spend more time                 │
+│    automating the things I automated."                        │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
